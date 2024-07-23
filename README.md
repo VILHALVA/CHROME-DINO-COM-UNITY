@@ -31,11 +31,9 @@
     1. **Abrir a Cena Principal:**
     - No painel `Project`, vá para a pasta onde o código e assets foram importados. Procure por uma cena principal, normalmente chamada `MainScene`, `GameScene`, ou algo semelhante.
     - Clique duas vezes na cena para abri-la.
-
     2. **Verificar e Ajustar Configurações:**
     - Certifique-se de que todos os scripts, prefabs e outros assets foram importados corretamente.
     - Se houver scripts que precisam de referências, você pode precisar arrastar e soltar esses objetos no `Inspector` para configurar as referências corretamente.
-
     3. **Adicionar Configurações Adicionais:**
     - Se o código exigir configurações específicas ou componentes adicionais, siga as instruções fornecidas no repositório GitHub. Verifique o README.md ou qualquer documentação que venha com o código.
 
