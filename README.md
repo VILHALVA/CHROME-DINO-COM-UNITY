@@ -8,11 +8,6 @@
 
 ## IMPORTANDO PARA A UNITY:
 ### MÉTODO 1: IMPORTAR VIA ASSET PACKAGE:
-1. **Verificar o Código e Assets:**
-   - Verifique se o repositório GitHub contém um arquivo `.unitypackage`. Se sim, você pode importar diretamente para o Unity.
-   - Se o repositório não possui esse arquivo, você precisará copiar o código e os assets manualmente.
-
-2. **Importar o `.unitypackage`:**
    - No Unity, vá para `Assets` > `Import Package` > `Custom Package`.
    - Navegue até o arquivo `.unitypackage` que você baixou e selecione-o.
    - Clique em `Import` para adicionar o conteúdo ao seu projeto.
@@ -20,7 +15,7 @@
 ### MÉTODO 2: COPIAR E COLAR MANUALMENTE:
 1. **Copiar o Código e Assets:**
    - Extraia o conteúdo do repositório GitHub (se ainda não o fez) em uma pasta no seu computador.
-   - Navegue até a pasta `Assets` do seu projeto Unity (normalmente localizada na raiz do diretório do projeto Unity).
+   - Navegue até a pasta `./CODIGO/Assets` do seu projeto Unity.
 
 2. **Adicionar o Conteúdo ao Projeto:**
    - Copie a pasta contendo o código e assets do repositório GitHub.
@@ -34,9 +29,6 @@
 2. **Verificar e Ajustar Configurações:**
    - Certifique-se de que todos os scripts, prefabs e outros assets foram importados corretamente.
    - Se houver scripts que precisam de referências, você pode precisar arrastar e soltar esses objetos no `Inspector` para configurar as referências corretamente.
-
-3. **Adicionar Configurações Adicionais:**
-   - Se o código exigir configurações específicas ou componentes adicionais, siga as instruções fornecidas no repositório GitHub. Verifique o README.md ou qualquer documentação que venha com o código.
 
 ## CREDITOS:
 - [PROJETO CRIADO PARA O CURSO DE UNITY](https://github.com/VILHALVA/CURSO-DE-UNITY)
